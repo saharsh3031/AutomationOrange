@@ -1,0 +1,8 @@
+orangeHrmUsername= Admin
+orangeHrmPaasword = admin123
+orangeHrmUrl = https://opensource-demo.orangehrmlive.com/
+browser = Chrome
+redBusFromLocation= Pune
+redBusToLocation= Mumbai
+excelFilePath = C:\Users\Sayu\Desktop\New folder\\loginCredential.xlsx
+sheetName = EmployeeD
